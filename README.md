@@ -12,6 +12,7 @@
 - 📱 I'm especially interested in educational apps
 - 🐘 I know biology
 - 🧪 I know chemistry
+- 🌍  I'm based in Munich, Germany
 
  ### Skills
 - 🎨 SwiftUI
