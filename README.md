@@ -15,5 +15,5 @@
 - 🌍  I'm based in Munich, Germany
 
  ### Skills
-- 🎨 Swift
+- 🐦‍🔥 Swift
 - 🖼️ Apple Frameworks: SwiftUI, MapKit, CloudKit, Swift Charts, Swift Data, ...
